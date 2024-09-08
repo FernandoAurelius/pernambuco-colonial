@@ -1,14 +1,11 @@
-// function([string1, string2],target id,[color1,color2])    
-consoleText(['Hello World.', 'Console Text', 'Made with Love.'], 'text',['tomato','rebeccapurple','lightblue']);
-
-function consoleText(words, id, colors) {
+function consoleText(words, textId, colors, consoleId) {
   if (colors === undefined) colors = ['#fff'];
   var visible = true;
-  var con = document.getElementById('console');
+  var con = document.getElementById('console' + consoleId);
   var letterCount = 1;
   var x = 1;
   var waiting = false;
-  var target = document.getElementById(id)
+  var target = document.getElementById(textId)
   target.setAttribute('style', 'color:' + colors[0])
   window.setInterval(function() {
     if (letterCount === 0 && waiting === false) {
@@ -49,3 +46,7 @@ function consoleText(words, id, colors) {
     }
   }, 400)
 }
+
+// function([string1, string2],target id,[color1,color2])    
+consoleText(['Administração dos Donatários', 'Inquisição e autoridade eclesiástica', 'Influência estrangeira e revoltas'], 'text1',['#F6E96B','#BEDC74','#A2CA71'], 1);
+consoleText(['OI', 'Tchau', 'Teste'], 'text2',['#F6E96B','#BEDC74','#A2CA71'], 2);
