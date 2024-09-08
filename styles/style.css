@@ -919,3 +919,19 @@ button {
 .button-30:hover {
     color: var(--cor-secundaria);
 }
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+    background-color: var(--background-secondary-dark);
+    color: var(--cor-primaria);
+    padding: 1rem;
+    font-family: var(--fonte-principal);
+    font-size: var(--tamanho-medio);
+}
+
+.rodape a {
+    text-decoration: underline var(--background-secondary-light);
+}
