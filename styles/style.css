@@ -630,7 +630,7 @@ section {
 }
 
 #objetivo {
-    background-image: url('../assets/aventura-historica2.jpg');
+    background-image: url('https://images.unsplash.com/photo-1666092197965-eb4794bc2c37?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     width: 100%;
     display: flex;
     justify-content: center;
@@ -783,7 +783,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('../assets/centro-historico-recife.jpg');
+    background-image: url('https://as1.ftcdn.net/v2/jpg/01/15/83/12/1000_F_115831230_EbuXu3r1f5h1muDyDAXJKq0WkpjEY5hc.jpg');
 }
 
 .hidden {
@@ -819,7 +819,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('../assets/olinda.jpg');
+    background-image: url('https://as1.ftcdn.net/v2/jpg/02/67/41/14/1000_F_267411471_K4HgECElPaCcEZhAxCuXFC6gaTkIpTD0.jpg');
 }
 
 #figuras {
@@ -828,7 +828,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('../assets/rua-bom-jesus.jpg');
+    background-image: url('https://as1.ftcdn.net/v2/jpg/07/98/58/74/1000_F_798587498_afwplI4WiH2Xp4UNuyLGPGKU7mrcZLug.jpg');
 }
 
 #relacionamento {
@@ -837,7 +837,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('../assets/cidade-do-porto.jpg');
+    background-image: url('https://as1.ftcdn.net/v2/jpg/02/96/90/14/1000_F_296901414_DGyIsdt3s1qZxBEe0Y9RQmcyBllArCRu.jpg');
 }
 
 #historia {
@@ -847,7 +847,7 @@ section {
     align-items: center;
     text-align: center;
     gap: 2rem;
-    background-image: url('../assets/centro-lisboa.jpg');
+    background-image: url('https://www.rbsdirect.com.br/imagesrc/25464561.jpg?w=1400');
 }
 
 .chat-container {
