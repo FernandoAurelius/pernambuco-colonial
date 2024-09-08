@@ -49,4 +49,6 @@ function consoleText(words, textId, colors, consoleId) {
 
 // function([string1, string2],target id,[color1,color2])    
 consoleText(['Administração dos Donatários', 'Inquisição e autoridade eclesiástica', 'Influência estrangeira e revoltas'], 'text1',['#F6E96B','#BEDC74','#A2CA71'], 1);
-consoleText(['OI', 'Tchau', 'Teste'], 'text2',['#F6E96B','#BEDC74','#A2CA71'], 2);
+consoleText(['Ciclo do Pau-Brasil', 'Ciclo da Cana-de-açúcar', 'Ciclo do Ouro'], 'text2',['#F6E96B','#BEDC74','#A2CA71'], 2);
+consoleText(['Duarte Coelho, o primeiro donatário', 'Francisco José Gomes, um pedreiro renomado', 'Antônio Vieira de Melo, o primeiro cangaceiro?'], 'text3',['#F6E96B','#BEDC74','#A2CA71'], 3);
+// consoleText(['Duarte Coelho, o primeiro donatário', 'Francisco José Gomes, um pedreiro renomado', 'Antônio Vieira de Melo, o primeiro cangaceiro?'], 'text3',['#F6E96B','#BEDC74','#A2CA71'], 3);
