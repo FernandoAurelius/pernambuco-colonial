@@ -630,7 +630,7 @@ section {
 }
 
 #objetivo {
-    background-image: url(/assets/aventura-historica2.jpg);
+    background-image: url('../assets/aventura-historica2.jpg');
     width: 100%;
     display: flex;
     justify-content: center;
@@ -783,7 +783,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/assets/centro-historico-recife.jpg);
+    background-image: url('../assets/centro-historico-recife.jpg');
 }
 
 .hidden {
@@ -819,7 +819,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/assets/olinda.jpg);
+    background-image: url('../assets/olinda.jpg');
 }
 
 #figuras {
@@ -828,7 +828,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/assets/rua-bom-jesus.jpg);
+    background-image: url('../assets/rua-bom-jesus.jpg');
 }
 
 #relacionamento {
@@ -837,7 +837,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/assets/cidade-do-porto.jpg);
+    background-image: url('../assets/cidade-do-porto.jpg');
 }
 
 #historia {
@@ -847,7 +847,7 @@ section {
     align-items: center;
     text-align: center;
     gap: 2rem;
-    background-image: url(/assets/centro-lisboa.jpg);
+    background-image: url('../assets/centro-lisboa.jpg');
 }
 
 .chat-container {
