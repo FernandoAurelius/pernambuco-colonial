@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Space+Grotesk:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Space+Grotesk:wght@300..700&family=Poppins:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
     --cor-primaria: #F6E96B;
@@ -273,6 +273,7 @@ select {
     transition: width .35s cubic-bezier(var(--transition-main), 1);
     overflow-y: auto;
     overflow-x: hidden;
+    font-family: 'Manrope', sans-serif;
 }
 
 #navbar:hover {
@@ -928,8 +929,7 @@ button {
     background-color: var(--background-secondary-dark);
     color: var(--cor-primaria);
     padding: 1rem;
-    font-family: var(--fonte-principal);
-    font-size: var(--tamanho-medio);
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 .rodape a {
