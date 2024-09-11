@@ -4,7 +4,7 @@
 
 ### Descrição
 
-Este projeto é uma aplicação web dedicada a explorar a história do estado de Pernambuco durante o período colonial. Através de uma navegação interativa, os usuários podem aprender sobre a política, economia, figuras proeminentes e o relacionamento entre Pernambuco e Portugal. O site inclui também uma funcionalidade de chat com uma IA especializada em História, chamada HistorIA, para fornecer informações adicionais e responder a perguntas dos usuários. 🤖✨
+Este projeto é uma aplicação web dedicada a explorar a história do estado de Pernambuco durante o período colonial. Através de uma navegação interativa, os usuários podem aprender sobre a política, economia, figuras proeminentes e o relacionamento entre Pernambuco e Portugal. O site inclui também uma funcionalidade de chat com uma IA especializada em História, chamada HistorIA, para fornecer informações adicionais e responder a perguntas dos usuários, fruto de uma integração com o Google AI Studio. **Espero que aproveite! 😁** 🤖✨
 
 ### Estrutura do Projeto
 
